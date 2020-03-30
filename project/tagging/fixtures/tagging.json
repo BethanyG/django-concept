@@ -5,7 +5,7 @@
       "fields":{
          "guid":"c4d9bdfd-d37b-4330-917d-500698eeda72",
          "name":"हिंदी में जानकारी",
-         "slug":"-जनकर"
+         "slug": "हद-म-जनकर"
       }
    },
    {
@@ -464,7 +464,7 @@
       "fields":{
          "guid":"99c242bd-5dea-47af-a40f-d32cf7fbd121",
          "name":"प्रयास है",
-         "slug":"रयस-ह"
+         "slug":"परयस-ह"
       }
    },
    {
@@ -545,7 +545,7 @@
       "fields":{
          "guid":"5dd3ca95-dbcf-46fd-a5ad-595024407421",
          "name":"stòran-dàta",
-         "slug":"sstòran-dàta"
+         "slug":"stòran-dàta"
       }
    },
    {
@@ -805,8 +805,8 @@
       "pk":91,
       "fields":{
          "guid":"d4cf2d74-1c5c-4989-b457-b7c2fc8a9aaa",
-         "name":"స్వయంచాలకం",
-         "slug":"యచలక"
+         "name":"స్వయంచాలక",
+         "slug":"సవయచలక"
       }
    },
    {
